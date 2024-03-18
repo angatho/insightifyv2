@@ -1,0 +1,25 @@
+{
+    "value": {
+      "enabled": true,
+      "description": "333",
+      "version": "0.0.3",
+      "pythonRemote": {
+        "endpoints": [
+          {
+            "url": "123",
+            "token": "*********",
+            "conftoken": "*********",
+            "confurl": "123",
+            "get_problem_data": "Yes",
+            "get_ff_data": "Yes",
+            "get_problem_data_mgmt_zone": "Yes",
+            "problem_to_incident_duration": "30",
+            "get_generate_report": "Last 30 days",
+            "management_zone_name": null,
+            "ag_endpoint": null
+          }
+        ]
+      }
+    },
+    "scope": "ag_group-default"
+}
